@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\source\\repos\\GenericoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AACDAA38-72A2-425A-ACF6-D4721F5A1D40}|GenericoApi.csproj|c:\\users\\gabri\\source\\repos\\genericoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AACDAA38-72A2-425A-ACF6-D4721F5A1D40}|GenericoApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACDAA38-72A2-425A-ACF6-D4721F5A1D40}|GenericoApi.csproj|c:\\users\\gabri\\source\\repos\\genericoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AACDAA38-72A2-425A-ACF6-D4721F5A1D40}|GenericoApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACDAA38-72A2-425A-ACF6-D4721F5A1D40}|GenericoApi.csproj|c:\\users\\gabri\\source\\repos\\genericoapi\\controllers\\genericocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACDAA38-72A2-425A-ACF6-D4721F5A1D40}|GenericoApi.csproj|solutionrelative:controllers\\genericocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACDAA38-72A2-425A-ACF6-D4721F5A1D40}|GenericoApi.csproj|c:\\users\\gabri\\source\\repos\\genericoapi\\models\\genericos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACDAA38-72A2-425A-ACF6-D4721F5A1D40}|GenericoApi.csproj|solutionrelative:models\\genericos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACDAA38-72A2-425A-ACF6-D4721F5A1D40}|GenericoApi.csproj|c:\\users\\gabri\\source\\repos\\genericoapi\\repositories\\genericorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACDAA38-72A2-425A-ACF6-D4721F5A1D40}|GenericoApi.csproj|solutionrelative:repositories\\genericorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACDAA38-72A2-425A-ACF6-D4721F5A1D40}|GenericoApi.csproj|c:\\users\\gabri\\source\\repos\\genericoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACDAA38-72A2-425A-ACF6-D4721F5A1D40}|GenericoApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericoController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\GenericoApi\\Controllers\\GenericoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GenericoController.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\GenericoApi\\Controllers\\GenericoController.cs",
+              "RelativeToolTip": "Controllers\\GenericoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T00:37:41.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Genericos.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\GenericoApi\\Models\\Genericos.cs",
+              "RelativeDocumentMoniker": "Models\\Genericos.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\GenericoApi\\Models\\Genericos.cs",
+              "RelativeToolTip": "Models\\Genericos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T00:23:39.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\GenericoApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\GenericoApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-01T01:18:22.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\GenericoApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\GenericoApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-01T00:36:14.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\GenericoApi\\Repositories\\GenericoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\GenericoRepository.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\GenericoApi\\Repositories\\GenericoRepository.cs",
+              "RelativeToolTip": "Repositories\\GenericoRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T00:38:18.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\GenericoApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\GenericoApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T01:18:53.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

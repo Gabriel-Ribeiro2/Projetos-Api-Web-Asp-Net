@@ -1,0 +1,6 @@
+@GenericoApi_HostAddress = http://localhost:5100
+
+GET {{GenericoApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MonsterApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca34e88a6be4a4130f780d7f05590463ed8c5602")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c01aff96f2ad633e2de6866890d7e5fb1740d078")]
 [assembly: System.Reflection.AssemblyProductAttribute("MonsterApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MonsterApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
